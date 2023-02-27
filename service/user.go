@@ -1,8 +1,8 @@
 package service
 
 import (
-	"github.com/869413421/wechatbot/config"
 	"github.com/patrickmn/go-cache"
+	"github.com/peachor/wechatbot/config"
 	"strings"
 	"time"
 	"unicode/utf8"
